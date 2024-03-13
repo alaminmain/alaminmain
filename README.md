@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Al Amin Hossain</h1>
 <h3 align="center">A passionate Dotnet developer from Bangladesh</h3>
+<p>
+I am an experienced developer with a passion for creating top-quality software solutions. With over ten years of experience working with prestigious financial institutions, I have honed my expertise in C# and ASP.NET Core, making me an expert in enterprise-grade software development. 
 
+As a Computer Science and Engineering MSc graduate, I possess extensive software development knowledge and specialize in creating capital market-related solutions. My key proficiencies include programming languages such as C# and ASP.NET Core, both robust technologies used in enterprise-grade software development. I also have a knack for working with back-end database servers such as Oracle and MSSQL, particularly in handling complex SQL queries with precision and efficiency.
+
+I am passionate about developing enterprise-grade APIs and delivering robust, scalable, and efficient software solutions. My experience working within the financial sector has given me a deep understanding of the unique challenges and intricacies associated with capital market-related software. This understanding has enabled me to create tailored solutions that meet the specific needs of financial institutions.
+
+As a software developer, I am committed to delivering high-quality solutions that drive innovation and efficiency in software development initiatives. I leverage cutting-edge technologies and my profound understanding of the financial domain to position myself as a valuable asset to any organization seeking to achieve success. Thank you for considering my expertise.
+<p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminmain&label=Profile%20views&color=0e75b6&style=flat" alt="alaminmain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminmain" alt="alaminmain" /></a> </p>
